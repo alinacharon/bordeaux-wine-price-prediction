@@ -8,6 +8,7 @@ I chose to use ElasticNet, a regression model that combines both Ridge and Lasso
 
 Source of the dataset: [21st Century Bordeaux Wine Dataset on Kaggle](https://www.kaggle.com/datasets/mexwell/21st-century-bordeaux-wine-dataset/data)
 
+![south-park-wine-tasting-meme](https://github.com/user-attachments/assets/297f3eea-6dc3-4e99-9413-a1bed7c1cdf3)
 ---
 
 ## Project Workflow:
